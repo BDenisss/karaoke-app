@@ -1,0 +1,12 @@
+{
+  "name": "my-music-app",
+  "version": "1.0.0",
+  "description": "Une application musicale simple en Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["music", "nodejs", "app"],
+  "author": "",
+  "license": "MIT"
+}
